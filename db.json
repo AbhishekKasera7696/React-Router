@@ -1,0 +1,44 @@
+{
+    "data"  : [
+
+       {
+        "name" : "SmartPhone",
+        "model" : "Samsung Galaxy",
+        "warranty" : "6 months",
+        "manufacture" : "Made in India",
+        "price": 30000,
+        "id" : 0
+       },
+
+       {
+        "name" : "Watch",
+        "model" : "Redmi",
+        "warranty" : "8 months",
+        "manufacture" : "Made in China",
+        "price" : 2000,
+        "id" : 1
+       },
+
+       {
+        "name" : "Shirt",
+        "model" : "plane",
+        "warranty" : "6 months",
+        "manufacture" : "Made in Japan",
+        "price" : 1000,
+        "id" : 2
+       },
+
+      {
+        "name" : "Pants",
+        "model" : "parker",
+        "warranty" : "6 months",
+        "manufacture" : "Made in Korea",
+        "price" : 1000,
+        "id" : 3
+    }
+
+    ]
+    
+} 
+
+
